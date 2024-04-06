@@ -59,3 +59,7 @@ For any queries or discussions related to this implementation, feel free to rais
 #copy
 This is a banger made by ${user}
 ```
+
+```
+#federate {path:'bedrock'}
+```
